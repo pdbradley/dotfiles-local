@@ -1,0 +1,8 @@
+Plug 'scrooloose/nerdtree'
+Plug 'mileszs/ack.vim'
+Plug 'ctrlpvim/ctrlp.vim/vim-rspec'
+Plug 'thoughtbot/vim-rspec'
+Plug 'kana/vim-textobj-user'
+Plug 'nelstrom/vim-textobj-rubyblock'
+Plug 'mattn/emmet-vim'
+Plug 'sheerun/vim-polyglot'
